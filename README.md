@@ -3,7 +3,7 @@
 * **Student Name:** Mahi Randhir Kawale
 * **PRN:** 125UAD1215
 * **Class / Division:** S.Y. B.Tech. AI&DS – Div A
-* **Course Name:** OOPs with C++ (Object-Oriented Programming with C++ – ADPC303)
+* **Course Name:** OOPs with C++
 * **Unit:** Unit II – Inheritance 
 * **Language Standard:** C++17
 

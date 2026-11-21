@@ -1,10 +1,10 @@
 # Unit II - C++ Programming Activity (Inheritance)
 
 * **Student Name:** Mahi Randhir Kawale
-* **PRN:** AD2131
+* **PRN:** 125UAD1215
 * **Class / Division:** S.Y. B.Tech. AI&DS – Div A
 * **Course Name:** OOPs with C++ (Object-Oriented Programming with C++ – ADPC303)
-* **Unit:** Unit II – Inheritance (Unit II–IV Activity)
+* **Unit:** Unit II – Inheritance 
 * **Language Standard:** C++17
 
 ---
